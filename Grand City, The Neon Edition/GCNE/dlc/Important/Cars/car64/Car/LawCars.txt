@@ -1,0 +1,19 @@
+ValkyrieTurbo2
+CruiserXmode
+Penguili TransporterVan
+BikeCruizer
+RapidPhoenixSportX
+Bendley CruiseX
+
+Military tank:
+Humvee
+Tank
+
+FIGHTER JETS:
+F-22 Raptor
+F-16 Falcon
+Eurofighter Typhoon
+
+
+
+Copyright Mockstar North 2024.
